@@ -2,3 +2,4 @@
 .idea
 venv
 build
+/src/main/kotlin/**/Playground.kt
